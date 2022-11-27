@@ -6,3 +6,5 @@ The implementation guide is being created in a project driven by [HL7 Finland](h
 See the [announcement](https://www.hl7.fi/hl7-fhir-profilointityo-kaynnistyy-tule-mukaan-vaikuttamaan-kansalliseen-tekemiseen/),
 the [running memo](https://docs.google.com/document/d/1yNq6XMLhWJqi6OELQtWC1DFwdtD9CQulzVOfz-zZCko/edit#),
 and [some more details](https://fhir.fi).
+
+The working version of the IG is published at https://fhir.fi/finnish-smart/.
