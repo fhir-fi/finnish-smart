@@ -59,7 +59,7 @@ We believe we can get some of these details sorted out more efficiently in the l
 context. We still aim to feed our learnings and developments with the wider SMART community and
 help get parts of them adopted to the SMART and IPA specifications.
 
-### Notable FHIR Implementations in Finland
+### Notable SMART Implementations in Finland
 
 Both HL7 FHIR and the SMART App Launch mechanism are used in Finland by many implementations.
 
@@ -82,8 +82,8 @@ mechanism that is pretty close to FHIR, but with some subtle differences.
 built in HL7 [SMART App Launch](https://www.hl7.org/fhir/smart-app-launch/) capability for
 interacting with third party apps. 
 
-[InterSystems Finland]() has built an adapter through which existing CCOW based systems can
-launch SMART apps. The adapter has been used at least by
+[InterSystems Finland](https://www.intersystems.com/fi/) has built an adapter through which
+existing CCOW based systems can launch SMART apps. The adapter has been used at least by
 [Vitec Acute](https://www.vitec-acute.com/) and
 [Lifecare](https://www.tietoevry.com/en/care/healthcare/) EHRs.
 
