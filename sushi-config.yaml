@@ -19,6 +19,18 @@ dependencies:
   hl7.fhir.uv.ipa: 0.1.0
   hl7.fhir.uv.smart-app-launch: 2.0.0
 
+pages:
+  index.md:
+    title: Home
+  examples.md:
+    title: Examples
+  downloads.md:
+    title: Downloads
+  history.md:
+    title: Version History
+
+
 menu:
   Home: index.html
-  Artifacts: artifacts.html
+  Examples: examples.html
+  Downloads: downloads.html
