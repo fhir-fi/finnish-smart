@@ -1,10 +1,10 @@
 id: hl7.fhir.fi.smart
-canonical: http://hl7.fi/fhir/finnish-smart
+canonical: https://hl7.fi/fhir/finnish-smart
 name: FinnishSmart
 title: Finnish Implementation Guide for SMART App Launch 
 description: Guidelines for using the SMART App Launch mechanism in Finland.
 status: draft # draft | active | retired | unknown
-version: 0.2.0
+version: 0.3.0
 fhirVersion: 4.0.1 # https://www.hl7.org/fhir/valueset-FHIR-version.html
 copyrightYear: 2022+
 releaseLabel: ci-build # ci-build | draft | qa-preview | ballot | trial-use | release | update | normative+trial-use
@@ -28,7 +28,6 @@ pages:
     title: Downloads
   history.md:
     title: Version History
-
 
 menu:
   Home: index.html
