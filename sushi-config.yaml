@@ -1,5 +1,5 @@
 id: hl7.fhir.fi.smart
-canonical: http://hl7.fi/fhir/finnish-smart
+canonical: https://hl7.fi/fhir/finnish-smart
 name: FinnishSmart
 title: Finnish Implementation Guide for SMART App Launch 
 description: Guidelines for using the SMART App Launch mechanism in Finland.
@@ -28,7 +28,6 @@ pages:
     title: Downloads
   history.md:
     title: Version History
-
 
 menu:
   Home: index.html

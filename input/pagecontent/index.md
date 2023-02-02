@@ -33,13 +33,6 @@ In addition to launching apps, the main SMART specification defines a
   the community of users and implementers.
 </blockquote>
 
-<blockquote id="canonicals-note" class="stu-note">
-  <strong>This version of the implementation guide uses canonical URLs that differ from the ones
-  used published version.</strong> This CI version of the guide is published at
-  [https://fhir.fi/finnish-smart](https://fhir.fi/finnish-smart). However, the official release
-  will be published in [https://hl7.fi/fhir/finnish-smart](https://hl7.fi/fhir/finnish-smart) and will also use that address for the base of canonical URLs in the guide.
-</blockquote>
-
 #### Companion Specifications
 
 There is a separate implementation guide for [Finnish Base Profiles](../finnish-base-profiles/)
