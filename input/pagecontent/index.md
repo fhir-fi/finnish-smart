@@ -26,11 +26,13 @@ between
 In addition to launching apps, the main SMART specification defines a
 [profile for backend services](https://hl7.org/fhir/smart-app-launch/backend-services.html).
 
-<blockquote id="draft-note" class="stu-note">
+<blockquote class="stu-note">
   <strong>This documentation and set of artifacts are still undergoing development, and they are in
   DRAFT mode.</strong> The working group of HL7 Finland and the different interested parties are
-  working on this specification. This is a DRAFT specification that has not yet been validated by
-  the community of users and implementers.
+  working on this specification. This is a DRAFT specification that is currently under review by
+  the members of HL7 Finland. If you are interested in participating the formal review process,
+  please contact Timo Kaskinen, the chair of the FL7 Finland Technical Committee, or Mikael
+  Rinnetmäki, responsible for publication of this implementation guide.
 </blockquote>
 
 #### Companion Specifications
@@ -114,6 +116,22 @@ See the
 memo](https://docs.google.com/document/d/1yNq6XMLhWJqi6OELQtWC1DFwdtD9CQulzVOfz-zZCko/edit#), and
 [some more details](https://fhir.fi). We warmly welcome new participants to the project. You may
 even be compensated for your efforts.
+
+The team involved in creating the first version of the implementation guide includes
+* Arto Huusko, CGI Oyj
+* Janne Heikkinen, BCB Medical Oy
+* Jari Kariniemi, Kymenlaakson hyvinvointialue
+* Jari Vuonos, Apotti Oy
+* Joni Hirviniemi, Fujitsu
+* Jyrki Soikkeli, Apotti Oy
+* Marko Kaukonen, BCB Medical Oy
+* Markus Lind, Buddy Healthcare Oy
+* Markus Suonpää, CGI Finland Oyj
+* Mika Jylhä, Esko Systems Oy
+* Mika Lentovaara, HUS
+* Mika Tuomainen, Kela
+* Mikael Rinnetmäki, Sensotrend Oy
+* Tero Pekkola, Esko Systems Oy
 
 ### Collaboration
 
