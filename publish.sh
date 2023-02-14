@@ -1,1 +1,1 @@
-java -jar input-cache/publisher.jar -go-publish -source . -web fhir -registry ../ig-registry/fhir-ig-list.json -history ../fhir-ig-history-template -templates output -temp temp-publish/
+java -jar input-cache/publisher.jar -go-publish -source . -web https://hl7.fi/fhir -registry ../ig-registry/fhir-ig-list.json -history ../fhir-ig-history-template/ -templates ../ig-template-fhir-fi/ -temp temp
