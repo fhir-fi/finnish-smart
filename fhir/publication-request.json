@@ -1,0 +1,13 @@
+{
+  "package-id" : "hl7.fhir.fi.smart",
+  "version" : "1.0.0-rc1",
+  "path" : "https://hl7.fi/fhir/finnish-smart/1.0.0-rc1",
+  "mode" : "milestone",
+  "status" : "ballot",
+  "sequence" : "Releases",
+  "desc" : "First publication of the IG, for ballot within HL7 Finland",
+  "title" : "Finnish Implementation Guide for SMART App Launch",
+  "ci-build" : "https://fhir.fi/finnish-smart/",
+  "category" : "National Base",
+  "introduction" : "The Finnish implementation guide for SMART App Launch"
+}
