@@ -18,6 +18,14 @@ the first quarter of 2023 and published on the second quarter of 2023.
     </thead>
     <tbody>
       <tr style="background-color: #f9f9f9">
+        <td colspan="4"><b>Release Candidates</b></td>
+      </tr>
+      <tr>
+        <td><a href="https://hl7.fi/fhir/finnish-smart/1.0-rc2/">2023-02-20</a></td>
+        <td>1.0.0-rc2</td><td>Ballot version for STU release 1.0.0</td>
+        <td><a title="Home Page" href="https://hl7.fi/fhir/finnish-smart/1.0-rc2/"><img src="https://hl7.org/fhir/assets/images/page.png"></a>&nbsp;<a title="Download" href="https://hl7.fi/fhir/finnish-smart/1.0-rc2/full-ig.zip"><img src="https://hl7.org/fhir/assets/images/download.gif"></a>&nbsp;<a title="QA Page" href="https://hl7.fi/fhir/finnish-smart/1.0-rc2/qa.html"><img src="https://hl7.org/fhir/assets/images/qa.png"></a>&nbsp; <a title="NPM Package hl7.fhir.fi.smart v1.0.0-rc12" href="https://hl7.fi/fhir/finnish-smart/1.0-rc2/package.tgz"><img src="https://hl7.org/fhir/assets/images/npm.png"></a></td>
+      </tr>
+      <tr style="background-color: #f9f9f9">
         <td colspan="4"><b>CI Snapshots</b></td>
       </tr>
       <tr>
