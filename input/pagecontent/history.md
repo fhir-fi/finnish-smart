@@ -1,5 +1,9 @@
-It is foreseen that this first official Standard for Trial Use (STU) version of this will be
-published on the second quarter of 2023.
+No offical releases of this implementation guide have been published.
+
+1.0.0-rc2 is the version frozen for the ballot of the first official Standard for Trial Use (STU)
+release, expected to be published on the second quarter of 2023.
+
+New snapshot versions will be published throughout the ballot cycle.
 
 <div id="history-data">
   <p>The following versions of the Finnish Base Profiles have been published so far:</p>
