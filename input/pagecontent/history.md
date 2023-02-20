@@ -1,12 +1,8 @@
-No versions of this implementation guide have been published yet. This continuous integration build
-is the first version to be created.
-
-It is foreseen that the first version will be balloted (voted on by the HL7 Finland membership) on
-the first quarter of 2023 and published on the second quarter of 2023.
+It is foreseen that this first official Standard for Trial Use (STU) version of this will be
+published on the second quarter of 2023.
 
 <div id="history-data">
-  <p>The following versions of the Finnish Base Profiles are included here, to test and to
-  demonstrate how different versions are published:</p>
+  <p>The following versions of the Finnish Base Profiles have been published so far:</p>
   <table class="history-grid">
     <thead>
       <tr style="background-color: #efefef">
