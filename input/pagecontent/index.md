@@ -80,8 +80,9 @@ In addition to launching apps, the main SMART specification defines a
 
 #### Companion Specifications
 
-There is a separate implementation guide for [Finnish Base Profiles](../finnish-base-profiles/)
-that defines the Finnish profiles for some of the key FHIR resources.
+There is a separate implementation guide for
+[Finnish Base Profiles](https://hl7.fi/fhir/finnish-base-profiles/) that defines the Finnish
+profiles for some of the key FHIR resources.
 
 ### Why Do We Need to Profile the SMART Specification?
 
