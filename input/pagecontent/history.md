@@ -6,7 +6,8 @@ release, expected to be published on the second quarter of 2023.
 New snapshot versions will be published throughout the ballot cycle.
 
 <div id="history-data">
-  <p>The following versions of the Finnish Base Profiles have been published so far:</p>
+  <p>The following versions of the Implementation Guide for Finnish SMART App Launch have been
+    published so far:</p>
   <table class="history-grid">
     <thead>
       <tr style="background-color: #efefef">
