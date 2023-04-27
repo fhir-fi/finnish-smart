@@ -5,6 +5,11 @@ Download automatically generated assets for offline use.
 This full IG as a single package:
 * [full-ig.zip](full-ig.zip)
 
+The ImplementationGuide resource:
+* Javascript Object Notation (JSON) format: [ImplementationGuide-hl7.fhir.fi.smart.json](ImplementationGuide-hl7.fhir.fi.smart.json)
+* Terse RDF Triple Language (TTL) format: [ImplementationGuide-hl7.fhir.fi.smart.ttl](ImplementationGuide-hl7.fhir.fi.smart.ttl)
+* Extensible Markup Language (XML) format: [ImplementationGuide-hl7.fhir.fi.smart.xml](ImplementationGuide-hl7.fhir.fi.smart.xml)
+
 ### NPM Package
 
 Profiles, valuesets, examples, and other assets used in this IG in npm format:
@@ -17,12 +22,6 @@ Definitions included in this IG in different file formats:
 * Javascript Object Notation (JSON) format: [definitions.json.zip](definitions.json.zip)
 * Terse RDF Triple Language (TTL) format: [definitions.ttl.zip](definitions.ttl.zip)
 * Extensible Markup Language (XML) format: [definitions.xml.zip](definitions.xml.zip)
-
-### Expansions
-
-Expansions as FHIR Bundle resources:
-* JSON [expansions.json.zip](expansions.json.zip)
-* XML [expansions.xml.zip](expansions.xml.zip)
 
 ### Examples
 

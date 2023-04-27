@@ -1,7 +1,7 @@
 {
   "package-id" : "hl7.fhir.fi.smart",
-  "version" : "1.0.0-rc3",
-  "path" : "https://hl7.fi/fhir/finnish-smart/1.0-rc3/",
+  "version" : "1.0.0-rc4",
+  "path" : "https://hl7.fi/fhir/finnish-smart/1.0-rc4/",
   "mode" : "working",
   "status" : "draft",
   "sequence" : "Releases",
@@ -11,5 +11,6 @@
   "title" : "Finnish Implementation Guide for SMART App Launch",
   "ci-build" : "https://fhir.fi/finnish-smart/",
   "category" : "National Base",
+  "first" : "true",
   "introduction" : "Guidelines for using the SMART App Launch mechanism in Finland, published and maintained by HL7 Finland."
 }

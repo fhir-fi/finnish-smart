@@ -3,7 +3,7 @@ InstanceOf: AuditEvent
 Title: "Apotti EHR Launch by a Practitioner"
 Description: "An data flow example of a SMART App Launch from Apotti Ekosysteemi, performed by a practitioner."
 Usage: #example
-* type.system = "http://hl7.org/fhir/ValueSet/audit-event-type"
+* type.system = "http://dicom.nema.org/resources/ontology/DCM"
 * type.code = #110114
 * type.display = "User Authentication"
 * recorded = "2023-01-24T12:20:18.000+02:00"
@@ -20,6 +20,6 @@ Usage: #example
     * type = "Organization"
     * display = "Sensotrend Oy"
   * type
-    * system = "http://hl7.org/fhir/ValueSet/audit-source-type"
+    * system = "http://terminology.hl7.org/CodeSystem/security-source-type"
     * code = #3
     * display = "Web Server"
