@@ -1,7 +1,7 @@
 {
   "package-id" : "hl7.fhir.fi.smart",
-  "version" : "1.0.0-rc2",
-  "path" : "https://hl7.fi/fhir/finnish-smart/1.0.0-rc1/",
+  "version" : "1.0.0-rc3",
+  "path" : "https://hl7.fi/fhir/finnish-smart/1.0-rc3/",
   "mode" : "working",
   "status" : "draft",
   "sequence" : "Releases",
