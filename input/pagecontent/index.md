@@ -26,58 +26,6 @@ between
 In addition to launching apps, the main SMART specification defines a
 [profile for backend services](https://hl7.org/fhir/smart-app-launch/backend-services.html).
 
-<section id="stu-ballot" class="stu-note">
-  <h4>Standard for Trial Use Ballot Feedback</h4>
-  <p><strong>This documentation and set of artifacts are still undergoing development, and they are
-  in DRAFT mode.</strong> The working group of HL7 Finland and the different interested parties are
-  working on this specification. This is a DRAFT specification that is currently under review by
-  the members of <a href="https://www.hl7.fi">HL7 Finland</a>. If you are interested in
-  participating to the formal review process, please contact Timo Kaskinen, the chair of the FL7
-  Finland Technical Committee, or Mikael Rinnetmäki, responsible for publication of this
-  implementation guide.</p>
-  <p>This version of this implementation guide is frozen and published as a base for the official
-  ballot within HL7 Finland. The p
-  See also the <a
-  href="https://www.hl7.fi/ennakkoilmoitus-alkavasta-fhir-perusprofilointimaarittelyjen-lausuntokierroksesta/">formal
-  announcement</a> in HL7 Finland's website (in Finnish only).</p>
-  <p>This ballot cycle is considered a <strong>Standard for Trial Use</strong> ballot in the <a
-  href="https://confluence.hl7.org/display/HL7/HL7+Balloting">HL7 Balloting process</a>.</p>
-  <p>HL7 Finland does not use the HL7 Ballot Desktop or the Jira Ballot Process, rather feedback is
-  gathered through email to <a href="mailto:timo.kaskinen@nhg.fi">timo.kaskinen@nhg.fi</a> and <a
-  href="https://github.com/fhir-fi/finnish-smart/issues">issues in the GitHub
-  repository</a> of the implementation guide.</p>
-  <p>The main purpose of the ballot cycle is to solicit feedback from the wider FHIR community. The
-  team involved in creating the first versions of the implementation guide have a limited view on
-  the market and the activities of the community.</p>
-  <p>In the ballot process, the focus is on critical comments. We want to learn of any potential
-  doubts and disagreements the community may have towards the specification created by the smaller
-  core team.</p>
-  <p>Still, <strong>all feedback is welcome and appreciated</strong> and will be considered in the
-  further development of the implementation guide. Please do also share positive feedback.</p>
-  <p>Some questions to trigger thoughts are:</p>
-  <ul>
-    <li>Do you find the creation of a Finnish implementation guide for SMART App Launch
-    worthwhile?</li>
-    <li>Is the purpose of the implementation guide clear and is the description of the problem
-    domain adequate on this first page of the implementation guide?</li>
-    <li>Is this the right level for a national implementation guide? The global community is still
-    figuring this out. For instance, see the <a
-    href="https://build.fhir.org/ig/HL7-Canada/ca-baseline/#base-vs-baseline-vs-core">categorization
-    of Base, Baseline, and Core profiles</a> in the Canadian Baseline specification.</li>
-    <li>Are there clear errors or mistakes in the implementation guide? Please don't hesitate
-    pointing these out!</li>
-    <li>Are there ambiguities or is some of the language confusing? Let us konw that too.</li>
-    <li>Do you know of SMART App Launch mechanism being used in Finland in ways that are not
-    covered by this implementation guide? Would the Finnish FHIR community benefit from those use
-    cases being covered? Could the parties involved benefit from making the use case more visible
-    through being mentioned in this implementation guide?</li>
-    <li>Would you be able to provide examples from use cases to be included in this implementation
-    guide?</li>
-    <li>Did you happen to learn something useful when reading this implementation guide? :)</li>
-  </ul>
-  <p>We look forward to hearing from you!</p>
-</section>
-
 #### Companion Specifications
 
 There is a separate implementation guide for
