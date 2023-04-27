@@ -29,7 +29,7 @@ In addition to launching apps, the main SMART specification defines a
 #### Companion Specifications
 
 There is a separate implementation guide for
-[Finnish Base Profiles](https://hl7.fi/fhir/finnish-base-profiles/) that defines the Finnish
+[Finnish Base Profiles](https://hl7.fi/fhir/finnish-base-profiles/) that defines the Finnish base
 profiles for some of the key FHIR resources.
 
 ### Why Do We Need to Profile the SMART Specification?
@@ -126,14 +126,17 @@ The team involved in creating the first version of the implementation guide incl
 * Mikael Rinnetmäki, Sensotrend Oy
 * Tero Pekkola, Esko Systems Oy
 
+Each published major version of this implementation guide goes through the ballot and voting
+processes of HL7 Finland.
+
 ### Collaboration
 
 We want this implementation guide to be useful for you.
 
-If you are implementing FHIR in a system or application that is meant to be used in Finland and are
-thinking of some implementation details, you are probably in the right place and this
-implementation guide should help you with those questions. If this implementation guide in any way
-fails to give you the answers you are looking for, we'd love to hear about it so we can make it
+If you are implementing SMART App launch in a system or application that is meant to be used in
+Finland and are thinking of some implementation details, you are probably in the right place and
+this implementation guide should help you with those questions. If this implementation guide in any
+way fails to give you the answers you are looking for, we'd love to hear about it so we can make it
 better. Please do be in touch in one of the ways listed below.
 
 #### Open an Issue in GitHub
