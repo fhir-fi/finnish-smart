@@ -22,9 +22,9 @@ New snapshot versions will be published throughout the ballot cycle.
         <td colspan="4"><b>Current Versions</b></td>
       </tr>
       <tr>
-        <td><a href="https://hl7.fi/fhir/finnish-smart/1.0-rc2/">2023-04-28</a></td>
+        <td><a href="https://hl7.fi/fhir/finnish-smart/">2023-04-28</a></td>
         <td>1.0.0-rc5</td><td>Official Ballot version for STU release 1.0.0</td>
-        <td><a title="Home Page" href="https://hl7.fi/fhir/finnish-smart/1.0-rc5/"><img src="https://hl7.org/fhir/assets/images/page.png"></a>&nbsp;<a title="Download" href="https://hl7.fi/fhir/finnish-smart/1.0-rc5/full-ig.zip"><img src="https://hl7.org/fhir/assets/images/download.gif"></a>&nbsp;<a title="QA Page" href="https://hl7.fi/fhir/finnish-smart/1.0-rc5/qa.html"><img src="https://hl7.org/fhir/assets/images/qa.png"></a>&nbsp; <a title="NPM Package hl7.fhir.fi.smart v1.0.0-rc5" href="https://hl7.fi/fhir/finnish-smart/1.0-rc5/package.tgz"><img src="https://hl7.org/fhir/assets/images/npm.png"></a></td>
+        <td><a title="Home Page" href="https://hl7.fi/fhir/finnish-smart/"><img src="https://hl7.org/fhir/assets/images/page.png"></a>&nbsp;<a title="Download" href="https://hl7.fi/fhir/finnish-smart/full-ig.zip"><img src="https://hl7.org/fhir/assets/images/download.gif"></a>&nbsp;<a title="QA Page" href="https://hl7.fi/fhir/finnish-smart/qa.html"><img src="https://hl7.org/fhir/assets/images/qa.png"></a>&nbsp; <a title="NPM Package hl7.fhir.fi.smart v1.0.0-rc5" href="https://hl7.fi/fhir/finnish-smart/package.tgz"><img src="https://hl7.org/fhir/assets/images/npm.png"></a></td>
       </tr>
       <tr>
         <td><a href="https://fhir.fi/finnish-smart/">(current)</a></td>
@@ -34,7 +34,7 @@ New snapshot versions will be published throughout the ballot cycle.
         <td colspan="4"><b>STU 1 Sequence</b></td>
       </tr>
       <tr>
-        <td><a href="https://hl7.fi/fhir/finnish-smart/1.0-rc2/">2023-04-28</a></td>
+        <td><a href="https://hl7.fi/fhir/finnish-smart/1.0-rc5/">2023-04-28</a></td>
         <td>1.0.0-rc5</td><td>Official Ballot version for STU release 1.0.0</td>
         <td><a title="Home Page" href="https://hl7.fi/fhir/finnish-smart/1.0-rc5/"><img src="https://hl7.org/fhir/assets/images/page.png"></a>&nbsp;<a title="Download" href="https://hl7.fi/fhir/finnish-smart/1.0-rc5/full-ig.zip"><img src="https://hl7.org/fhir/assets/images/download.gif"></a>&nbsp;<a title="QA Page" href="https://hl7.fi/fhir/finnish-smart/1.0-rc5/qa.html"><img src="https://hl7.org/fhir/assets/images/qa.png"></a>&nbsp; <a title="NPM Package hl7.fhir.fi.smart v1.0.0-rc5" href="https://hl7.fi/fhir/finnish-smart/1.0-rc5/package.tgz"><img src="https://hl7.org/fhir/assets/images/npm.png"></a></td>
       </tr>
@@ -61,13 +61,13 @@ New snapshot versions will be published throughout the ballot cycle.
 In addition to versions published here, each change to the implementation guide is automatically
 built and published in the build.fhir.org infrastructure. You can locate the built snapshot with
 the branch name. For instance, the latest commit to the `master` branch is published at
-[https://build.fhir.org/ig/fhir-fi/finnish-smart/branches/master](https://build.fhir.org/ig/fhir-fi/finnish-base-profiles/branches/master).
+[https://build.fhir.org/ig/fhir-fi/finnish-smart/branches/master](https://build.fhir.org/ig/fhir-fi/finnish-smart/branches/master).
 
 You can also browse the [list of all IG builds](https://fhir.github.io/auto-ig-builder/builds.html).
 
 Similarly the debug info related to the build can be found with the branch name. The build log of
 the latest commit to the `master` branch is at
-[https://build.fhir.org/ig/fhir-fi/finnish-smart/branches/master/build.log](https://build.fhir.org/ig/fhir-fi/finnish-base-profiles/branches/master/build.log).
+[https://build.fhir.org/ig/fhir-fi/finnish-smart/branches/master/build.log](https://build.fhir.org/ig/fhir-fi/finnish-smart/branches/master/build.log).
 
 You can also track the build info at the
 [committers/notification](https://chat.fhir.org/#narrow/stream/179297-committers.2Fnotification/topic/ig-build/)
