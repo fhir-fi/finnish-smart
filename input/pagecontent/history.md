@@ -58,13 +58,13 @@ New snapshot versions will be published throughout the ballot cycle.
 In addition to versions published here, each change to the implementation guide is automatically
 built and published in the build.fhir.org infrastructure. You can locate the built snapshot with
 the branch name. For instance, the latest commit to the `master` branch is published at
-[https://build.fhir.org/ig/fhir-fi/finnish-smart/branches/master](https://build.fhir.org/ig/fhir-fi/finnish-base-profiles/branches/master).
+[https://build.fhir.org/ig/fhir-fi/finnish-smart/branches/master](https://build.fhir.org/ig/fhir-fi/finnish-smart/branches/master).
 
 You can also browse the [list of all IG builds](https://fhir.github.io/auto-ig-builder/builds.html).
 
 Similarly the debug info related to the build can be found with the branch name. The build log of
 the latest commit to the `master` branch is at
-[https://build.fhir.org/ig/fhir-fi/finnish-smart/branches/master/build.log](https://build.fhir.org/ig/fhir-fi/finnish-base-profiles/branches/master/build.log).
+[https://build.fhir.org/ig/fhir-fi/finnish-smart/branches/master/build.log](https://build.fhir.org/ig/fhir-fi/finnish-smart/branches/master/build.log).
 
 You can also track the build info at the
 [committers/notification](https://chat.fhir.org/#narrow/stream/179297-committers.2Fnotification/topic/ig-build/)
