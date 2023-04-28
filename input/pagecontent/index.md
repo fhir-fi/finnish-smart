@@ -117,6 +117,7 @@ The team involved in creating the first version of the implementation guide incl
 * Jari Vuonos, Apotti Oy
 * Joni Hirviniemi, Fujitsu
 * Jyrki Soikkeli, Apotti Oy
+* Kalle Moilanen, Esko Systems Oy
 * Marko Kaukonen, BCB Medical Oy
 * Markus Lind, Buddy Healthcare Oy
 * Markus Suonpää, CGI Finland Oyj
