@@ -81,7 +81,7 @@ SMART App Launch method to interact with third party systems.
 
 The [Kanta PHR](https://www.kanta.fi/phr) is a personal health record platform for storing and
 exchanging health and wellbeing data produced and governed by citizens. It uses a security
-mechanism that is pretty close to FHIR, but with some subtle differences.
+mechanism that is pretty close to SMART App Launch, but with some subtle differences.
 
 [Health Village](http://healthvillage.fi) is a publicly funded group of services. It has
 built in HL7 [SMART App Launch](https://www.hl7.org/fhir/smart-app-launch/) capability for
