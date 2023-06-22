@@ -45,12 +45,12 @@ New snapshot versions will be published throughout the ballot cycle.
       </tr>
       <tr>
         <td><a href="https://hl7.fi/fhir/finnish-smart/1.0-rc1/">2023-02-14</a></td>
-        <td>1.0.0-rc1</td><td>CI Snapshot, use the color theme from the main FHIR specification</td>
+        <td>1.0.0-rc1</td><td>First release candidate for STU 1</td>
         <td><a title="Home Page" href="https://hl7.fi/fhir/finnish-smart/1.0-rc1/"><img src="https://hl7.org/fhir/assets/images/page.png"></a>&nbsp;<a title="Download" href="https://hl7.fi/fhir/finnish-smart/1.0-rc1/full-ig.zip"><img src="https://hl7.org/fhir/assets/images/download.gif"></a>&nbsp;<a title="QA Page" href="https://hl7.fi/fhir/finnish-smart/1.0-rc1/qa.html"><img src="https://hl7.org/fhir/assets/images/qa.png"></a>&nbsp; <a title="NPM Package hl7.fhir.fi.smart v1.0.0-rc1" href="https://hl7.fi/fhir/finnish-smart/1.0-rc1/package.tgz"><img src="https://hl7.org/fhir/assets/images/npm.png"></a></td>
       </tr>
       <tr>
         <td><a href="https://hl7.fi/fhir/finnish-smart/0.3/">2023-02-01</a></td>
-        <td>0.3.0</td><td>CI Snapshot, use the color theme from the main FHIR specification</td>
+        <td>0.3.0</td><td>CI Snapshot, use the Finnish color theme</td>
         <td><a title="Home Page" href="https://hl7.fi/fhir/finnish-smart/0.3/"><img src="https://hl7.org/fhir/assets/images/page.png"></a>&nbsp;<a title="Download" href="https://hl7.fi/fhir/finnish-smart/0.3/full-ig.zip"><img src="https://hl7.org/fhir/assets/images/download.gif"></a>&nbsp;<a title="QA Page" href="https://hl7.fi/fhir/finnish-smart/0.3/qa.html"><img src="https://hl7.org/fhir/assets/images/qa.png"></a>&nbsp; <a title="NPM Package hl7.fhir.fi.smart v0.3.0" href="https://hl7.fi/fhir/finnish-smart/0.3/package.tgz"><img src="https://hl7.org/fhir/assets/images/npm.png"></a></td>
       </tr>
     </tbody>
