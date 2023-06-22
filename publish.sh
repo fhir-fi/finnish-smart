@@ -1,1 +1,1 @@
-java -jar input-cache/publisher.jar -go-publish -source . -web https://hl7.fi/fhir -registry ../ig-registry/fhir-ig-list.json -history ../fhir-ig-history-template/ -templates ../ig-template-fhir-fi/ -temp temp
+java -jar input-cache/publisher.jar -go-publish -source /Users/mikael/GitHub/finnish-smart -web https://hl7.fi/fhir -registry /Users/mikael/GitHub/ig-registry/fhir-ig-list.json -history /Users/mikael/GitHub/fhir-ig-history-template/ -templates /Users/mikael/GitHub/ig-template-fhir-fi/ -temp temp
