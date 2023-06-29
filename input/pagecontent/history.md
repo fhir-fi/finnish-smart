@@ -21,9 +21,9 @@ New snapshot versions will be published throughout the ballot cycle.
       <tr style="background-color: #f9f9f9">
         <td colspan="4"><b>Current Versions</b></td>
       </tr>
-        <td><a href="https://hl7.fi/fhir/finnish-smart/1.0.0-rc6/">2023-06-29</a></td>
-        <td>1.0.0-rc6</td><td>Finishing touches before 1.0.0 release</td>
-        <td><a title="Home Page" href="https://hl7.fi/fhir/finnish-smart/1.0.0-rc6/"><img src="https://hl7.org/fhir/assets/images/page.png"></a>&nbsp;<a title="Download" href="https://hl7.fi/fhir/finnish-smart/1.0.0-rc6/full-ig.zip"><img src="https://hl7.org/fhir/assets/images/download.gif"></a>&nbsp;<a title="QA Page" href="https://hl7.fi/fhir/finnish-smart/1.0.0-rc6/qa.html"><img src="https://hl7.org/fhir/assets/images/qa.png"></a>&nbsp; <a title="NPM Package hl7.fhir.fi.smart v1.0.0-rc6" href="https://hl7.fi/fhir/finnish-smart/1.0.0-rc6/package.tgz"><img src="https://hl7.org/fhir/assets/images/npm.png"></a></td>
+        <td><a href="https://hl7.fi/fhir/finnish-smart/">2023-06-29</a></td>
+        <td>1.0.0-rc7</td><td>Finishing touches before 1.0.0 release</td>
+        <td><a title="Home Page" href="https://hl7.fi/fhir/finnish-smart/"><img src="https://hl7.org/fhir/assets/images/page.png"></a>&nbsp;<a title="Download" href="https://hl7.fi/fhir/finnish-smart/full-ig.zip"><img src="https://hl7.org/fhir/assets/images/download.gif"></a>&nbsp;<a title="QA Page" href="https://hl7.fi/fhir/finnish-smart/qa.html"><img src="https://hl7.org/fhir/assets/images/qa.png"></a>&nbsp; <a title="NPM Package hl7.fhir.fi.smart v1.0.0-rc7" href="https://hl7.fi/fhir/finnish-smart/package.tgz"><img src="https://hl7.org/fhir/assets/images/npm.png"></a></td>
       </tr>
       <tr>
         <td><a href="https://fhir.fi/finnish-smart/">(current)</a></td>
@@ -40,9 +40,9 @@ New snapshot versions will be published throughout the ballot cycle.
       </tr>
       -->
       <tr>
-        <td><a href="https://hl7.fi/fhir/finnish-smart/1.0.0-rc6/">2023-06-29</a></td>
-        <td>1.0.0-rc6</td><td>Finishing touches before 1.0.0 release</td>
-        <td><a title="Home Page" href="https://hl7.fi/fhir/finnish-smart/1.0.0-rc6/"><img src="https://hl7.org/fhir/assets/images/page.png"></a>&nbsp;<a title="Download" href="https://hl7.fi/fhir/finnish-smart/1.0.0-rc6/full-ig.zip"><img src="https://hl7.org/fhir/assets/images/download.gif"></a>&nbsp;<a title="QA Page" href="https://hl7.fi/fhir/finnish-smart/1.0.0-rc6/qa.html"><img src="https://hl7.org/fhir/assets/images/qa.png"></a>&nbsp; <a title="NPM Package hl7.fhir.fi.smart v1.0.0-rc6" href="https://hl7.fi/fhir/finnish-smart/1.0.0-rc6/package.tgz"><img src="https://hl7.org/fhir/assets/images/npm.png"></a></td>
+        <td><a href="https://hl7.fi/fhir/finnish-smart/1.0.0-rc7/">2023-06-29</a></td>
+        <td>1.0.0-rc7</td><td>Finishing touches before 1.0.0 release</td>
+        <td><a title="Home Page" href="https://hl7.fi/fhir/finnish-smart/1.0.0-rc7/"><img src="https://hl7.org/fhir/assets/images/page.png"></a>&nbsp;<a title="Download" href="https://hl7.fi/fhir/finnish-smart/1.0.0-rc7/full-ig.zip"><img src="https://hl7.org/fhir/assets/images/download.gif"></a>&nbsp;<a title="QA Page" href="https://hl7.fi/fhir/finnish-smart/1.0.0-rc7/qa.html"><img src="https://hl7.org/fhir/assets/images/qa.png"></a>&nbsp; <a title="NPM Package hl7.fhir.fi.smart v1.0.0-rc7" href="https://hl7.fi/fhir/finnish-smart/1.0.0-rc7/package.tgz"><img src="https://hl7.org/fhir/assets/images/npm.png"></a></td>
       </tr>
       <tr>
         <td><a href="https://hl7.fi/fhir/finnish-smart/1.0-rc5/">2023-04-28</a></td>
