@@ -1,12 +1,12 @@
 {
   "package-id" : "hl7.fhir.fi.smart",
-  "version" : "1.0.0-rc7",
-  "path" : "https://hl7.fi/fhir/finnish-smart/1.0.0-rc7",
+  "version" : "1.0.0-rc8",
+  "path" : "https://hl7.fi/fhir/finnish-smart/1.0.0-rc8",
   "mode" : "milestone",
   "status" : "draft",
   "sequence" : "STU 1",
   "desc" : "Finishing touches before 1.0.0 release",
   "descmd" : "Preparing for the release 1.0, STU 1",
-  "changes" : "Incorporate feedback from the official ballot",
+  "changes" : "Remove ballot content",
   "first" : "false"
 }
