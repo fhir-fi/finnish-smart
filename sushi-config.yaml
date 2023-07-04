@@ -35,6 +35,9 @@ pages:
   downloads.md:
     title: Downloads
 
+parameters: 
+  ipa-comparison: "{last}" # "{current}" | "{last}"
+
 menu:
   Home: index.html
   Conformance: conformance.html
