@@ -1,11 +1,11 @@
 {
   "package-id" : "hl7.fhir.fi.smart",
-  "version" : "1.0.0-rc8",
-  "path" : "https://hl7.fi/fhir/finnish-smart/1.0.0-rc8",
-  "mode" : "working",
-  "status" : "qa-preview",
+  "version" : "1.0.0",
+  "path" : "https://hl7.fi/fhir/finnish-smart/1.0.0",
+  "mode" : "milestone",
+  "status" : "trial-use",
   "sequence" : "STU 1",
-  "desc" : "Finishing touches before 1.0.0 release",
-  "descmd" : "Remove ballot content",
+  "desc" : "Release 1.0.0, STU 1",
+  "descmd" : "Release 1.0.0, STU 1",
   "first" : "false"
 }
