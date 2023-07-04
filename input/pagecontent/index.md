@@ -2,11 +2,12 @@
 
 This implementation guide specifies the Finnish FHIR base profiles.
 
-It builds on top of both the HL7
-[SMART App Launch](https://hl7.org/fhir/smart-app-launch/)
-and the HL7
-[International Patient Access](https://build.fhir.org/ig/HL7/fhir-ipa/)
-specifications.
+{% include cross-version-analysis-inline.xhtml %}
+
+It builds on top of both the HL7 [SMART App Launch](https://hl7.org/fhir/smart-app-launch/) and the
+HL7 [International Patient Access](https://build.fhir.org/ig/HL7/fhir-ipa/) specifications.
+
+{% include dependency-table-short.xhtml %}
 
 SMART App Launch is the mechanism through which third-party apps can be integrated with Electronic
 Health Record (EHR) systems. It specifies how apps gain knowledge of which practitioner or patient
@@ -75,12 +76,13 @@ existing CCOW based systems can launch SMART apps. The adapter has been used at 
 [Vitec Acute](https://www.vitec-acute.com/) and
 [Lifecare](https://www.tietoevry.com/en/care/healthcare/) EHRs.
 
-Furthermore, the [FHIR Demo 2022](https://fhir.fi/en/demo2022/index.html) showcase presented
-integrations implemented between a dozen platforms and more than a dozen FHIR apps, all based on
-HL7 FHIR and most utilizing the SMART specification.
+Furthermore, both the [FHIR Demo 2022](https://fhir.fi/en/demo2022/index.html) and the 
+[FHIR Demo 2023](https://fhir.fi/en/demo2023/index.html) showcases presented numerous integrations
+implemented between FHIR servers and apps, all based on HL7 FHIR and most utilizing the SMART
+specification.
 
-Even that showcase did not cover the full extent to which HL7 FHIR is being used in Finland.
-There's a lot going on!
+Even those showcases did not cover the full extent to which the HL7 FHIR and the SMART App Launch
+specifications are being used in Finland. There's a lot going on!
 
 To learn about the current status, please contact [HL7 Finland](https://www.hl7.fi/). We're happy
 to give you an overview.
@@ -105,9 +107,9 @@ comprehensive specification on which to build implementations.
 The profiling work is performed in a project driven by [HL7 Finland](https://www.hl7.fi).
 See the
 [announcement](https://www.hl7.fi/hl7-fhir-profilointityo-kaynnistyy-tule-mukaan-vaikuttamaan-kansalliseen-tekemiseen/)
-(in Finnish), the [running
-memo](https://docs.google.com/document/d/1yNq6XMLhWJqi6OELQtWC1DFwdtD9CQulzVOfz-zZCko/edit#), and
-[some more details](https://fhir.fi). We warmly welcome new participants to the project. You may
+(in Finnish), the
+[running memo](https://docs.google.com/document/d/1yNq6XMLhWJqi6OELQtWC1DFwdtD9CQulzVOfz-zZCko/edit#),
+and [some more details](https://fhir.fi). We warmly welcome new participants to the project. You may
 even be compensated for your efforts.
 
 The team involved in creating the first version of the implementation guide includes
@@ -187,7 +189,7 @@ Third Party IP. The licensee alone is responsible for identifying and obtaining 
 licenses or authorizations to utilize Third Party IP in connection with the specification or
 otherwise.
 
-HL7®, HEALTH LEVEL SEVEN®, FHIR® and the FHIR <img src="icon-fhir-16.png"
+HL7&reg;, HEALTH LEVEL SEVEN&reg;, FHIR&reg; and the FHIR <img src="icon-fhir-16.png" alt="logo"
 style="float: none; margin: 0px; padding: 0px; vertical-align: bottom"/>&reg; are trademarks owned
 by Health Level Seven International, registered with the United States Patent and Trademark Office.
 
