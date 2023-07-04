@@ -1,7 +1,8 @@
-Instance: fi-smart-server
+Instance: FiSmartServer
 InstanceOf: CapabilityStatement
 Title: "Finnish SMART Server Capability Statement"
 Usage: #definition
+* id = "fi-smart-server"
 * status = #active
 * date = "2023-02-03"
 * description = "This CapabilityStatement describes the basic rules for a server actor providing SMART App Launch in Finland."
