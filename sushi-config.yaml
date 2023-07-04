@@ -19,6 +19,12 @@ dependencies:
   hl7.fhir.uv.ipa: 1.0.0
   hl7.fhir.uv.smart-app-launch: 2.0.0
 
+resources:
+  CapabilityStatement/apotti-eko01:
+    name: Apotti CapabilityStatement
+    description: An example CapabilityStatement captured from Apotti Ekosysteemi.
+    exampleCanonical: https://hl7.fi/fhir/finnish-smart/StructureDefinition/fi-smart-server-profile
+
 pages:
   index.md:
     title: Home
