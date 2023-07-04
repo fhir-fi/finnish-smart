@@ -3,3 +3,13 @@
 # Add warning and/or information messages here after you've confirmed that they aren't really a problem
 # (And include comments like this justifying why)
 # See https://github.com/FHIR/sample-ig/blob/master/input/ignoreWarnings.txt for examples
+
+# These warnings originate from the CapabilityStatement definition in FHIR 4.0.1. See http://hl7.org/fhir/R4/capabilitystatement.profile.json.html. We don't want to try to fix them here.
+value should not start or finish with whitespace ' not(f:kind/@value='instance') or (not(exists(f:implementation)) and exists(f:software))'
+The repeating element has a pattern. The pattern will apply to all the repeats (this has not been clear to all users)
+The repeating element has a pattern value for a primitive type. The DotNet validator will not apply this to all the repeats - this is an error
+
+# These warnings are for the capability statement captured from the Apotti / Epic system. Epic does handle these internally.
+The markdown contains content that appears to be an embedded HTML tag starting at 'A '. This will (or SHOULD) be escaped by the presentation layer. The content should be checked to confirm that this is the desired behaviour
+The markdown contains content that appears to be an embedded HTML tag starting at 'Fu'. This will (or SHOULD) be escaped by the presentation layer. The content should be checked to confirm that this is the desired behaviour
+The markdown contains content that appears to be an embedded HTML tag starting at 'Se'. This will (or SHOULD) be escaped by the presentation layer. The content should be checked to confirm that this is the desired behaviour
