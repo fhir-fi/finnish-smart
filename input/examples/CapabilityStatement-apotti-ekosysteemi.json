@@ -1,6 +1,7 @@
 {
     "resourceType": "CapabilityStatement",
     "id": "apotti-eko01",
+    "name": "CapabilityStatementExampleApotti",
     "status": "active",
     "experimental": true,
     "date": "2023-07-04T12:16:44Z",
