@@ -38,7 +38,7 @@ pages:
     title: Examples
   downloads.md:
     title: Downloads
-  history.md:
+  versions.md:
     title: Version History
 
 parameters: 
