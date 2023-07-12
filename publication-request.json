@@ -2,7 +2,7 @@
   "package-id" : "hl7.fhir.fi.smart",
   "version" : "1.0.0-rc9",
   "path" : "https://hl7.fi/fhir/finnish-smart/1.0.0-rc9",
-  "mode" : "working",
+  "mode" : "milestone",
   "status" : "qa-preview",
   "sequence" : "STU 1",
   "desc" : "Restore the version history page, separate from publication directory",
