@@ -1,11 +1,11 @@
 {
   "package-id" : "hl7.fhir.fi.smart",
-  "version" : "1.0.0-rc8",
-  "path" : "https://hl7.fi/fhir/finnish-smart/1.0.0-rc8",
-  "mode" : "milestone",
+  "version" : "1.0.0-rc9",
+  "path" : "https://hl7.fi/fhir/finnish-smart/1.0.0-rc9",
+  "mode" : "working",
   "status" : "qa-preview",
   "sequence" : "STU 1",
-  "desc" : "Finishing touches before 1.0.0 release",
-  "descmd" : "Finishing touches before 1.0.0 release",
+  "desc" : "Restore the version history page, separate from publication directory",
+  "descmd" : "Restore the version history page, separate from publication directory",
   "first" : "false"
 }
