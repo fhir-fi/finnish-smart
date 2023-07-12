@@ -41,8 +41,9 @@ pages:
   versions.md:
     title: Version History
 
-parameters: 
+parameters:
   ipa-comparison: "{last}" # "{current}" | "{last}"
+  suppressed-ids: apotti-eko01
 
 menu:
   Home: index.html
