@@ -4,20 +4,30 @@ name: FinnishSmart
 title: Finnish Implementation Guide for SMART App Launch 
 description: Guidelines for using the SMART App Launch mechanism in Finland.
 status: draft # draft | active | retired | unknown
-version: 1.0.0-rc6
+version: 1.0.0-rc9
 fhirVersion: 4.0.1 # https://www.hl7.org/fhir/valueset-FHIR-version.html
 copyrightYear: 2022+
-releaseLabel: ci-build # ci-build | draft | qa-preview | ballot | trial-use | release | update | normative+trial-use
+releaseLabel: qa-preview # ci-build | draft | qa-preview | ballot | trial-use | release | update | normative+trial-use
 license: CC0-1.0 # https://www.hl7.org/fhir/valueset-spdx-license.html
 jurisdiction: urn:iso:std:iso:3166#FI "Finland" # https://www.hl7.org/fhir/valueset-jurisdiction.html
 publisher:
-  name: HL7 Finland
+  name: HL7 Finland ry
   url: https://www.hl7.fi/
   email: mikael@sensotrend.com
 
 dependencies:
   hl7.fhir.uv.ipa: 1.0.0
   hl7.fhir.uv.smart-app-launch: 2.0.0
+
+resources:
+  AuditEvent/apotti-ehr-launch-by-practitioner:
+    name: SMARTExampleApottiPractitionerEHR
+    description: A data flow example of a SMART App Launch from Apotti Ekosysteemi, performed by a practitioner.
+    exampleBoolean: true
+  CapabilityStatement/apotti-eko01:
+    name: CapabilityStatementExampleApotti
+    description: An example CapabilityStatement captured from Apotti Ekosysteemi.
+    exampleCanonical: https://hl7.fi/fhir/finnish-smart/StructureDefinition/fi-smart-server-profile
 
 pages:
   index.md:
@@ -28,8 +38,12 @@ pages:
     title: Examples
   downloads.md:
     title: Downloads
-  history.md:
+  versions.md:
     title: Version History
+
+parameters:
+  ipa-comparison: "{last}" # "{current}" | "{last}"
+  suppressed-ids: apotti-eko01
 
 menu:
   Home: index.html

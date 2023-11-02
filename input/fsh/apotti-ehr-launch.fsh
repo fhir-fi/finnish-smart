@@ -1,11 +1,18 @@
-Instance: apotti-ehr-launch-by-practitioner
+Instance: ApottiEHRLaunch
 InstanceOf: AuditEvent
 Title: "Apotti EHR Launch by a Practitioner"
-Description: "An data flow example of a SMART App Launch from Apotti Ekosysteemi, performed by a practitioner."
+Description: "A data flow example of a SMART App Launch from Apotti Ekosysteemi, performed by a practitioner."
 Usage: #example
-* type.system = "http://dicom.nema.org/resources/ontology/DCM"
-* type.code = #110114
-* type.display = "User Authentication"
+* id = "apotti-ehr-launch-by-practitioner"
+* type
+  * system = "http://dicom.nema.org/resources/ontology/DCM"
+  * code = #110114
+  * display = "User Authentication"
+* subtype
+  * system = "http://dicom.nema.org/resources/ontology/DCM"
+  * code = #110120
+  * display = "Application Start"
+* action = #E
 * recorded = "2023-01-24T12:20:18.000+02:00"
 * agent[0].who
   * type = "Organization"

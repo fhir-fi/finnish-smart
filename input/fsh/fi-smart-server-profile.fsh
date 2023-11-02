@@ -1,4 +1,4 @@
-Profile: FiSmartServer
+Profile: FiSmartServerProfile
 Parent: CapabilityStatement
 Id: fi-smart-server-profile
 Title: "Finnish SMART Server Capability Statement Profile"
