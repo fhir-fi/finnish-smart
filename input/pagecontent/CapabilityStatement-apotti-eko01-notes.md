@@ -1,0 +1,1 @@
+You can also see the current version of the capability statement of Apotti Ekosysteemi in [json](https://gw.apottiekosysteemi.fi/Interconnect-FHIR-EKO01/api/FHIR/R4/metadata?_format=json) or [xml](https://gw.apottiekosysteemi.fi/Interconnect-FHIR-EKO01/api/FHIR/R4/metadata?_format=xml) format.

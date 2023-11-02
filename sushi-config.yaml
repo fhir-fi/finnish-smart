@@ -20,8 +20,12 @@ dependencies:
   hl7.fhir.uv.smart-app-launch: 2.0.0
 
 resources:
+  AuditEvent/apotti-ehr-launch-by-practitioner:
+    name: SMARTExampleApottiPractitionerEHR
+    description: A data flow example of a SMART App Launch from Apotti Ekosysteemi, performed by a practitioner.
+    exampleBoolean: true
   CapabilityStatement/apotti-eko01:
-    name: Apotti CapabilityStatement
+    name: CapabilityStatementExampleApotti
     description: An example CapabilityStatement captured from Apotti Ekosysteemi.
     exampleCanonical: https://hl7.fi/fhir/finnish-smart/StructureDefinition/fi-smart-server-profile
 
@@ -34,9 +38,12 @@ pages:
     title: Examples
   downloads.md:
     title: Downloads
+  versions.md:
+    title: Version History
 
-parameters: 
+parameters:
   ipa-comparison: "{last}" # "{current}" | "{last}"
+  suppressed-ids: apotti-eko01
 
 menu:
   Home: index.html
