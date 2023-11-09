@@ -9,6 +9,10 @@ value should not start or finish with whitespace ' not(f:kind/@value='instance')
 The repeating element has a pattern. The pattern will apply to all the repeats (this has not been clear to all users)
 The repeating element has a pattern value for a primitive type. The DotNet validator will not apply this to all the repeats - this is an error
 
+# The SMART App Launch specification does not publish a html page for the implementation guide resource. Not something we can fix here.
+The link 'http://hl7.org/fhir/smart-app-launch/STU2/ImplementationGuide-hl7.fhir.uv.smart-app-launch.html' for "http://hl7.org/fhir/smart-app-launch/ImplementationGuide/hl7.fhir.uv.smart-app-launch" cannot be resolved
+The link 'http://hl7.org/fhir/smart-app-launch/STU2/ImplementationGuide-hl7.fhir.uv.smart-app-launch.html' for "" cannot be resolved
+
 # These warnings are for the capability statement captured from the Apotti / Epic system. Epic does handle these internally.
 The markdown contains content that appears to be an embedded HTML tag starting at 'A '. This will (or SHOULD) be escaped by the presentation layer. The content should be checked to confirm that this is the desired behaviour
 The markdown contains content that appears to be an embedded HTML tag starting at 'Fu'. This will (or SHOULD) be escaped by the presentation layer. The content should be checked to confirm that this is the desired behaviour
