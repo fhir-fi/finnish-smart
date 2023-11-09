@@ -4,7 +4,7 @@ Title: "Finnish SMART Server Capability Statement"
 Usage: #definition
 * id = "fi-smart-server"
 * status = #active
-* date = "2023-02-03"
+* date = "2023-11-09"
 * description = "This CapabilityStatement describes the basic rules for a server actor providing SMART App Launch in Finland."
 * kind = #requirements
 * name = "FiSmartServer"
@@ -26,4 +26,4 @@ Usage: #definition
 * implementationGuide[=].extension.valueCode = #SHOULD
 * rest.mode = #server
 * rest.documentation = "The server **SHALL**:\n1. Implement the RESTful behavior according to the FHIR specification.\n1. Support JSON source formats for all interactions.\n1. Declare a CapabilityStatement identifying the list of profiles, operations, and search parameters supported.\n\nThe server **SHOULD**:\n1. Support XML source formats for all interactions.\n1. Implement the International Patient Access (IPA) specification."
-* rest.security.description = "This implementation guide relies heavily on the widely adopted SMART App Launch mechanism. This implementation guide does not define any new security mechanisms. 1. Please familiarize yourself with the securty concepts infroduced in the SMART App Launch specification, and the underlying OpenID Connect and OAuth2 specifications the SMART App Launch specification build on.\n1. See the Best Practices outlined in the SMART App Launch specification.\n1. See the [General Security Considerations](security.html) section for requirements and recommendations.\n1. A server **SHALL** reject any unauthorized requests by returning an HTTP `401 Unauthorized`, `403 Forbidden`, or `404 Not Found` response code."
+* rest.security.description = "This implementation guide relies heavily on the widely adopted SMART App Launch mechanism. This implementation guide does not define any new security mechanisms. Please familiarize yourself with the securty concepts infroduced in the SMART App Launch specification, and the underlying OpenID Connect and OAuth2 specifications the SMART App Launch specification build on.\n1. See the Best Practices outlined in the SMART App Launch specification.\n1. See the [FHIR Security](https://www.hl7.org/fhir/security.html) section of the FHIR specification for requirements and recommendations.\n1. A server **SHALL** reject any unauthorized requests by returning an HTTP `401 Unauthorized`, `403 Forbidden`, or `404 Not Found` response code."
