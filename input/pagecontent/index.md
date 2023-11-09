@@ -1,6 +1,6 @@
 ### Welcome to the Finnish SMART App Launch Specification
 
-This implementation guide specifies the Finnish FHIR base profiles.
+This is the Finnish implementation guide for the SMART App Launch mechanism.
 
 {% include cross-version-analysis-inline.xhtml %}
 
