@@ -3,12 +3,17 @@ Version 1.0.0 is the first official release of this implementation guide.
 See the history of published versions in the
 [publication directory](https://hl7.fi/fhir/finnish-smart/history.html).
 
+You can track the changes between released snapshot versions through the
+Previous Version Comparison section of the [QA report](qa.html). You can also check changes
+between ballot and release versions through the
+[releases](https://github.com/fhir-fi/finnish-smart/releases) in GitHub.
+
 The development continues, with the intention to add more real-world examples, to get definitions
 from this implementation guide into Normative level (see the
 [standards development process](https://hl7.org/fhir/versions.html#std-process)) of the FHIR
 specification), and to cover additional features enabled by the SMART specification.
 
-Development snapshots will be published throughout the development and ballot cycles.
+Development snapshots will be published throughout the development, ballot, and maintenance cycles.
 
 ### CI Build Snapshots
 The latest version of the `master` branch of the source code repository for this implementation

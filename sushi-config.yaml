@@ -4,7 +4,7 @@ name: FinnishSmart
 title: Finnish Implementation Guide for SMART App Launch 
 description: Guidelines for using the SMART App Launch mechanism in Finland.
 status: draft # draft | active | retired | unknown
-version: 1.0.0-rc9
+version: 1.0.0-rc10
 fhirVersion: 4.0.1 # https://www.hl7.org/fhir/valueset-FHIR-version.html
 copyrightYear: 2022+
 releaseLabel: qa-preview # ci-build | draft | qa-preview | ballot | trial-use | release | update | normative+trial-use
@@ -17,7 +17,7 @@ publisher:
 
 dependencies:
   hl7.fhir.uv.ipa: 1.0.0
-  hl7.fhir.uv.smart-app-launch: 2.0.0
+  hl7.fhir.uv.smart-app-launch: 2.1.0
 
 resources:
   AuditEvent/apotti-ehr-launch-by-practitioner:
@@ -42,8 +42,8 @@ pages:
     title: Version History
 
 parameters:
-  ipa-comparison: "{last}" # "{current}" | "{last}"
-  suppressed-ids: apotti-eko01
+  ipa-comparison: "{last}"
+  suppressed-ids: apotti-eko01 # We added this for the IG to compile, the id is not part of the real example
 
 menu:
   Home: index.html
