@@ -1,11 +1,11 @@
 {
   "package-id" : "hl7.fhir.fi.smart",
-  "version" : "2.0.0-cibuild",
-  "path" : "https://hl7.fi/fhir/finnish-smart/2.0.0-cibuild",
-  "mode" : "working",
-  "status" : "draft",
+  "version" : "2.0.0-rc1",
+  "path" : "https://hl7.fi/fhir/finnish-smart/2.0.0-rc1",
+  "mode" : "milestone",
+  "status" : "ballot",
   "sequence" : "STU 2",
-  "desc" : "CI snapshot for v 2.0.0",
-  "descmd" : "CI snapshot for v 2.0.0",
+  "desc" : "Release Candidate 1 for v 2.0.0",
+  "descmd" : "Release Candidate 1 for v 2.0.0",
   "first" : "false"
 }
