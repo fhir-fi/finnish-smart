@@ -1,0 +1,21 @@
+name: Pull request verification
+
+on:
+  pull_request:
+    branches: [ master ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v4
+    - name: Update the Docker image to the latest publisher
+      uses: docker://hl7fhir/ig-publisher-base:latest
+      with:
+        args: ./_updatePublisher.sh --yes
+    - name: Run the IG publisher
+      uses: docker://hl7fhir/ig-publisher-base:latest
+      with:
+        args: ./_genonce.sh
