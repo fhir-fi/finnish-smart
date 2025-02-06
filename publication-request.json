@@ -1,11 +1,11 @@
 {
   "package-id" : "hl7.fhir.fi.smart",
-  "version" : "1.0.1-cibuild",
-  "path" : "https://hl7.fi/fhir/finnish-smart/1.0.1-cibuild",
+  "version" : "2.0.0-cibuild",
+  "path" : "https://hl7.fi/fhir/finnish-smart/2.0.0-cibuild",
   "mode" : "working",
   "status" : "draft",
-  "sequence" : "STU 1",
-  "desc" : "CI snapshot for v 1.0.1",
-  "descmd" : "CI snapshot for v 1.0.1",
+  "sequence" : "STU 2",
+  "desc" : "CI snapshot for v 2.0.0",
+  "descmd" : "CI snapshot for v 2.0.0",
   "first" : "false"
 }
