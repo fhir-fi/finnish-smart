@@ -34,7 +34,7 @@ The results of the latest commit to the `master` branch are also published in
 ### On hl7.fi
 
 The official publishing location of the implementation guide is at
-[hl7.fi/fhir/finnish-base-profiles/](https://hl7.fi/fhir/finnish-smart/).
+[hl7.fi/fhir/finnish-smart/](https://hl7.fi/fhir/finnish-smart/).
 
 Occasionally snapshots are also published there. The published versions are listed on the
 [Version History](https://hl7.fi/fhir/finnish-smart/history.html) page.
