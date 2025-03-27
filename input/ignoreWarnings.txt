@@ -4,15 +4,30 @@
 # (And include comments like this justifying why)
 # See https://github.com/FHIR/sample-ig/blob/master/input/ignoreWarnings.txt for examples
 
+# We intentionally want to allow other versions of SMART too, not just 2.2.0
+There are multiple different potential matches for the url 'http://hl7.org/fhir/smart-app-launch/ImplementationGuide/hl7.fhir.uv.smart-app-launch'. It might be a good idea to fix to the correct version to reduce the likelihood of a wrong version being selected by an implementation/implementer. Using version '2.2.0', found versions: 2.0.0, 2.2.0. Suggested fix: change the canonical reference from 'http://hl7.org/fhir/smart-app-launch/ImplementationGuide/hl7.fhir.uv.smart-app-launch' to 'http://hl7.org/fhir/smart-app-launch/ImplementationGuide/hl7.fhir.uv.smart-app-launch|2.2.0'
+
 # These warnings originate from the CapabilityStatement definition in FHIR 4.0.1. See http://hl7.org/fhir/R4/capabilitystatement.profile.json.html. We don't want to try to fix them here.
 value should not start or finish with whitespace ' not(f:kind/@value='instance') or (not(exists(f:implementation)) and exists(f:software))'
 The repeating element has a pattern. The pattern will apply to all the repeats (this has not been clear to all users)
 The repeating element has a pattern value for a primitive type. The DotNet validator will not apply this to all the repeats - this is an error
 
-# These warnings are for the capability statement captured from the Apotti / Epic system. Epic does handle these internally.
-The markdown contains content that appears to be an embedded HTML tag starting at 'A '. This will (or SHOULD) be escaped by the presentation layer. The content should be checked to confirm that this is the desired behaviour
-The markdown contains content that appears to be an embedded HTML tag starting at 'Fu'. This will (or SHOULD) be escaped by the presentation layer. The content should be checked to confirm that this is the desired behaviour
-The markdown contains content that appears to be an embedded HTML tag starting at 'Se'. This will (or SHOULD) be escaped by the presentation layer. The content should be checked to confirm that this is the desired behaviour
+# These warnings are for the capability statement captured from the Apotti / Epic system. Epic does handle these internally. We don't want to modify a real world example for the guide.
+The markdown contains content that appears to be an embedded HTML tag starting at '<c'. This will (or SHOULD) be escaped by the presentation layer. The content should be checked to confirm that this is the desired behaviour
+The resource CapabilityStatement/apotti-eko01 could usefully have an OID assigned (OIDs are easy to assign - see https://build.fhir.org/ig/FHIR/fhir-tools-ig/CodeSystem-ig-parameters.html#ig-parameters-auto-oid-root)
 
 # The profiles do not have definitive content. We could copy examples from IPA or from Finnish Base profiles, but that feels unnecessary.
 The Implementation Guide contains no examples for this profile
+
+# The version of the IPA specification is correctly announced in the profile, but not on the constraints. The constraints are not defined in this guide, rather in IPA and Finnish Base Profiles.
+There are multiple different potential matches for the url 'http://hl7.org/fhir/uv/ipa/StructureDefinition/ipa-medication'. It might be a good idea to fix to the correct version to reduce the likelihood of a wrong version being selected by an implementation/implementer. Using version '1.1.0', found versions: 1.0.0, 1.1.0. Suggested fix: change the canonical reference from 'http://hl7.org/fhir/uv/ipa/StructureDefinition/ipa-medication' to 'http://hl7.org/fhir/uv/ipa/StructureDefinition/ipa-medication|1.1.0'
+There are multiple different potential matches for the url 'http://hl7.org/fhir/uv/ipa/StructureDefinition/ipa-observation'. It might be a good idea to fix to the correct version to reduce the likelihood of a wrong version being selected by an implementation/implementer. Using version '1.1.0', found versions: 1.0.0, 1.1.0. Suggested fix: change the canonical reference from 'http://hl7.org/fhir/uv/ipa/StructureDefinition/ipa-observation' to 'http://hl7.org/fhir/uv/ipa/StructureDefinition/ipa-observation|1.1.0'
+There are multiple different potential matches for the url 'http://hl7.org/fhir/uv/ipa/StructureDefinition/ipa-patient'. It might be a good idea to fix to the correct version to reduce the likelihood of a wrong version being selected by an implementation/implementer. Using version '1.1.0', found versions: 1.0.0, 1.1.0. Suggested fix: change the canonical reference from 'http://hl7.org/fhir/uv/ipa/StructureDefinition/ipa-patient' to 'http://hl7.org/fhir/uv/ipa/StructureDefinition/ipa-patient|1.1.0'
+There are multiple different potential matches for the url 'http://hl7.org/fhir/uv/ipa/StructureDefinition/ipa-practitioner'. It might be a good idea to fix to the correct version to reduce the likelihood of a wrong version being selected by an implementation/implementer. Using version '1.1.0', found versions: 1.0.0, 1.1.0. Suggested fix: change the canonical reference from 'http://hl7.org/fhir/uv/ipa/StructureDefinition/ipa-practitioner' to 'http://hl7.org/fhir/uv/ipa/StructureDefinition/ipa-practitioner|1.1.0'
+There are multiple different potential matches for the url 'http://hl7.org/fhir/StructureDefinition/patient-interpreterRequired'. It might be a good idea to fix to the correct version to reduce the likelihood of a wrong version being selected by an implementation/implementer. Using version '5.2.0', found versions: 1.0.0, 4.0.1, 5.1.0, 5.2.0. Suggested fix: change the canonical reference from 'http://hl7.org/fhir/StructureDefinition/patient-interpreterRequired' to 'http://hl7.org/fhir/StructureDefinition/patient-interpreterRequired|5.2.0'
+
+# This is not defined by us in this guide, rather in IPA spec
+The extension http://hl7.org/fhir/StructureDefinition/elementdefinition-maxValueSet|5.2.0 is deprecated
+
+# This is caused by tooling, not something we do (or don't do) in our profiling
+The extension http://hl7.org/fhir/StructureDefinition/regex|5.2.0 is deprecated with the note This was deprecated in favor of using a constraint on the element using FHIRPath, since constraints allow for the provision of a human readable message associated with the regex
