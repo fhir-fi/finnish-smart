@@ -4,10 +4,10 @@ name: FinnishSmart
 title: Finnish Implementation Guide for SMART App Launch 
 description: Guidelines for using the SMART App Launch mechanism in Finland.
 status: draft # draft | active | retired | unknown
-version: 2.0.0-rc1
+version: 2.0.0-ci
 fhirVersion: 4.0.1 # https://www.hl7.org/fhir/valueset-FHIR-version.html
 copyrightYear: 2022+
-releaseLabel: ballot # ci-build | draft | qa-preview | ballot | trial-use | release | update | normative+trial-use
+releaseLabel: ci-build # ci-build | draft | qa-preview | ballot | trial-use | release | update | normative+trial-use
 license: CC0-1.0 # https://www.hl7.org/fhir/valueset-spdx-license.html
 jurisdiction: urn:iso:std:iso:3166#FI "Finland" # https://www.hl7.org/fhir/valueset-jurisdiction.html
 publisher:
@@ -17,7 +17,7 @@ publisher:
 
 dependencies:
   hl7.fhir.fi.base: latest # update to 2.0.0 as soon as we publish  
-  hl7.fhir.uv.ipa: latest # update to 1.1.0 as soon as HL7 International publishes it
+  hl7.fhir.uv.ipa: 1.1.0
   hl7.fhir.uv.smart-app-launch: latest
 
 resources:
