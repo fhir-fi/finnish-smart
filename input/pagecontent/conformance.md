@@ -10,6 +10,10 @@ The
 [Finnish SMART Server Capability Statement Profile](StructureDefinition-fi-smart-server-profile.html)
 is intended to help in validation of server capability statements.
 
+### Profiles Defined in This Implementation Guide
+
+{% include profile-list-generator.html%}
+
 ### Global Profiles
 
 {% include globals-table.xhtml %}
