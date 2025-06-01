@@ -1,11 +1,11 @@
 {
   "package-id" : "hl7.fhir.fi.smart",
-  "version" : "2.0.0-rc2",
-  "path" : "https://hl7.fi/fhir/finnish-smart/2.0.0-rc2",
-  "mode" : "milestone",
-  "status" : "ballot",
+  "version" : "2.0.0-ci",
+  "path" : "https://fhir.fi/finnish-smart",
+  "mode" : "working",
+  "status" : "draft",
   "sequence" : "STU 2",
-  "desc" : "Release Candidate 2 for v 2.0.0",
-  "descmd" : "Release Candidate 2 for v 2.0.0",
+  "desc" : "Continuous integration build",
+  "descmd" : "Continuous integration build for STU 2",
   "first" : "false"
 }
