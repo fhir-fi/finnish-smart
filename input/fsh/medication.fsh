@@ -1,5 +1,5 @@
 Profile: FiSMARTMedication
-Parent: http://hl7.org/fhir/uv/ipa/StructureDefinition/ipa-medication
+Parent: FiBaseMedication
 Id: fi-smart-medication
 Title: "FI SMART Medication"
 Description: "This is the Finnish base profile for the Medication resource for patient access use case."
