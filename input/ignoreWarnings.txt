@@ -34,8 +34,4 @@ The repeating element has a pattern value for a primitive type. The DotNet valid
 # These warnings are for the capability statement captured from the Apotti / Epic system. Epic does handle these internally. We don't want to modify a real world example for the guide.
 The markdown contains content that appears to be an embedded HTML tag starting at '<c'. This will (or SHOULD) be escaped by the presentation layer. The content should be checked to confirm that this is the desired behaviour
 The resource CapabilityStatement/apotti-eko01 could usefully have an OID assigned (OIDs are easy to assign - see https://build.fhir.org/ig/FHIR/fhir-tools-ig/CodeSystem-ig-parameters.html#ig-parameters-auto-oid-root)
-Canonical URL 'http://hl7.org/fhir/uv/bulkdata/CapabilityStatement/bulk-data' does not resolve
-Canonical URL 'http://hl7.org/fhir/uv/bulkdata/OperationDefinition/group-export' does not resolve
-URL value 'https://gw.apottiekosysteemi.fi/Interconnect-FHIR-EKO01/api/FHIR/R4' does not resolve
-URL value 'https://gw.apottiekosysteemi.fi/Interconnect-FHIR-EKO01/oauth2/authorize' does not resolve
-URL value 'https://gw.apottiekosysteemi.fi/Interconnect-FHIR-EKO01/oauth2/token' does not resolve
+%No definition could be found for URL value 'https://gw.apottiekosysteemi.fi/Interconnect-FHIR-EKO01/%
