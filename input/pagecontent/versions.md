@@ -1,7 +1,16 @@
-Version 1.0.0 is the first official release of this implementation guide.
+Version 2.0.0 is the second official release of this implementation guide.
 
 See the history of published versions in the
 [publication directory](https://hl7.fi/fhir/finnish-smart/history.html).
+
+### Notable Changes
+
+Version 2.0.0 includes profiles depending on the
+[International Patient Access (IPA)](https://build.fhir.org/ig/HL7/fhir-ipa/) specification from
+the Finnish base profiles into this specification. This is considered to be a more appropiate
+guide for these profiles.
+
+### Tracking Changes
 
 You can track the changes between released snapshot versions through the
 Previous Version Comparison section of the [QA report](qa.html). You can also check changes
