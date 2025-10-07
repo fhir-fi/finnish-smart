@@ -16,9 +16,9 @@ publisher:
   email: mikael@sensotrend.com
 
 dependencies:
-  hl7.fhir.fi.base: latest # update to 2.0.0 as soon as we publish  
-  hl7.fhir.uv.ipa: latest
-  hl7.fhir.uv.smart-app-launch: latest
+  hl7.fhir.fi.base: 2.0.0
+  hl7.fhir.uv.ipa: 1.1.0
+  hl7.fhir.uv.smart-app-launch: 2.2.0
 
 resources:
   AuditEvent/apotti-ehr-launch-by-practitioner:
