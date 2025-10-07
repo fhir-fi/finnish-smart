@@ -2,6 +2,8 @@
 
 This is the Finnish implementation guide for the SMART App Launch mechanism.
 
+This is an official HL7 Finland standard, with the oid `1.2.246.777.11.2025.5`.
+
 {% include cross-version-analysis-inline.xhtml %}
 
 It builds on top of both the HL7 [SMART App Launch](https://hl7.org/fhir/smart-app-launch/) and the
