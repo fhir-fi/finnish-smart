@@ -1,6 +1,6 @@
 # This workflow sets up and runs the IG publisher and publishes the results to GitHub Pages
 
-name: Node.js CI
+name: FHIR IG Build & Publish
 
 on:
   push:
